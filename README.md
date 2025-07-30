@@ -19,7 +19,7 @@
 <dd> <code class="docutils literal notranslate"><span class="pre">GPIO09</span></code></dd></dd>
 </dl><hr>
 <h2>接线指引</h2>
-<h4>换挡拨片使用</h4>
+<h4>换挡拨片请使用IO12,IO13引脚</h4>
 <img width="1506" height="884" alt="ESP32-C3" src="https://github.com/user-attachments/assets/e3a42d51-30e9-48b9-9b69-2920d3452a3f" />
 <img width="1703" height="1279" alt="ESP32-C3" src="https://github.com/user-attachments/assets/43e30d90-1857-4cca-bfcb-9c73962c209d" />
 <img width="1279" height="1760" alt="ESP32-C3" src="https://github.com/user-attachments/assets/cc38b054-f56c-48dd-a03b-28e89830ac24" />
